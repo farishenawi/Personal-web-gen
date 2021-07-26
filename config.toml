@@ -6,6 +6,8 @@ copyright="© Faris Henawi"
 googleAnalytics = ""
 enableEmoji=true
 enableRobotsTXT=true
+relativeURLs = true
+uglyURLs = true
 pygmentsUseClasses=true
 pygmentsCodeFences=true
 

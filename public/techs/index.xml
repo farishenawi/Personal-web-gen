@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Techs on Faris Henawi</title>
-    <link>https://farishenawi.github.io/techs/</link>
+    <link>https://farishenawi.github.io/techs.html</link>
     <description>Recent content in Techs on Faris Henawi</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
@@ -10,19 +10,19 @@
     <lastBuildDate>Thu, 02 May 2019 19:47:09 +0200</lastBuildDate><atom:link href="https://farishenawi.github.io/techs/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>D3</title>
-      <link>https://farishenawi.github.io/techs/d3/</link>
+      <link>https://farishenawi.github.io/techs/d3.html</link>
       <pubDate>Thu, 02 May 2019 19:47:09 +0200</pubDate>
       
-      <guid>https://farishenawi.github.io/techs/d3/</guid>
+      <guid>https://farishenawi.github.io/techs/d3.html</guid>
       <description></description>
     </item>
     
     <item>
       <title>javascript</title>
-      <link>https://farishenawi.github.io/techs/javascript/</link>
+      <link>https://farishenawi.github.io/techs/javascript.html</link>
       <pubDate>Thu, 02 May 2019 19:47:09 +0200</pubDate>
       
-      <guid>https://farishenawi.github.io/techs/javascript/</guid>
+      <guid>https://farishenawi.github.io/techs/javascript.html</guid>
       <description></description>
     </item>
     

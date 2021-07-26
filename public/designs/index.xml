@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Designs on Faris Henawi</title>
-    <link>https://farishenawi.github.io/designs/</link>
+    <link>https://farishenawi.github.io/designs.html</link>
     <description>Recent content in Designs on Faris Henawi</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
@@ -10,10 +10,10 @@
     <lastBuildDate>Thu, 02 May 2019 19:47:09 +0200</lastBuildDate><atom:link href="https://farishenawi.github.io/designs/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Photoshop</title>
-      <link>https://farishenawi.github.io/designs/photoshop/</link>
+      <link>https://farishenawi.github.io/designs/photoshop.html</link>
       <pubDate>Thu, 02 May 2019 19:47:09 +0200</pubDate>
       
-      <guid>https://farishenawi.github.io/designs/photoshop/</guid>
+      <guid>https://farishenawi.github.io/designs/photoshop.html</guid>
       <description></description>
     </item>
     
