@@ -1,4 +1,7 @@
-baseURL = "https://farishenawi.github.io/"
+relativeURLs = true
+uglyURLs = true
+# baseURL = "https://farishenawi.github.io/"
+baseURL = "/"
 languageCode = "en-us"
 title = "Faris Henawi"
 theme = "personal-web"
@@ -6,8 +9,6 @@ copyright="© Faris Henawi"
 googleAnalytics = ""
 enableEmoji=true
 enableRobotsTXT=true
-relativeURLs = true
-uglyURLs = true
 pygmentsUseClasses=true
 pygmentsCodeFences=true
 
@@ -65,7 +66,6 @@ pygmentsCodeFences=true
   email = "farish110@gmail.com"
   text= "Contact me" # text of the contact link in the sidebar. If email params.contact.email is defined
 
-
 [menu]
 
 [[menu.main]]
@@ -75,12 +75,12 @@ pygmentsCodeFences=true
   url = "/about/"
   weight = -120
 
-#[[menu.main]]
- # identifier = "resume"
- # name = "Resume"
- # title = "Resume"
- # url = "/resume/"
- # weight = -110
+[[menu.main]]
+  identifier = "resume"
+  name = "Resume"
+  title = "Resume"
+  url = "/resume-faris-henawi.pdf"
+  weight = -110
 
 #[[menu.main]]
  # identifier = "blog"
